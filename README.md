@@ -1,4 +1,3 @@
-[![MasterHead](https://www.talentcoders.co/wp-content/uploads/2023/07/Yazilim-Muhendisligi-Nedir.jpg)
 <h1 align="center">Merhaba 👋, ben Mustafa Erdoğdu</h1>
 <h3 align="center">Bilgisayar mühendisliği 3. sınıf öğrencisiyim</h3>
 
